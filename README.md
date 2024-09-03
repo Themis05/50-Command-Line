@@ -1,5 +1,6 @@
 <h1>50 Command Line<h1/>
-<h2>1. pwd </h2>
+  <h2></h2>
+<p>1. pwd </p>
 <img src = https://github.com/user-attachments/assets/8bfecc90-de15-40ae-b9a4-556d70f3cdea width=500>
 <p>Perintah pwd digunakan untuk menampilkan path direktori kerja saat ini di terminal Ini menunjukkan lokasi direktori tempat kita berada di sistem file<br/></p>
 <p>2. cd /home</p>
@@ -115,6 +116,104 @@
 
 <p>30. touch filebaru.txt</p>
 <img src = https://github.com/user-attachments/assets/ce59d37f-37a8-4c3f-b675-fc7ea9ba4607 width=500>
+
+<p>31. file</p>
+<img src = https://github.com/user-attachments/assets/5d83a731-c7d9-4bab-8b12-aa9c3fe082ee width=500>
+<p>digunakan untuk menentukan tipe file di Linux Perintah ini menganalisis isi file dan memberikan informasi tentang format atau jenis file tersebut</p>
+
+<p>31. dir</p>
+<img src = https://github.com/user-attachments/assets/2cb43391-36e9-44e9-9ff7-1c7e74407e4f width=500>
+<p>untuk melihat directory</p>
+
+<p>32. kill</p>
+<img src = https://github.com/user-attachments/assets/db68230f-6e7e-457b-8f50-12527d352084 width=500>
+<p> Perintah kill digunakan untuk mengirim sinyal ke proses di Linux Biasanya digunakan untuk menghentikan proses dengan mengirimkan sinyal tertentu seperti SIGTERM untuk meminta proses berhenti secara normal atau SIGKILL untuk menghentikan proses secara paksa.</p>
+
+<p>33. time</p>
+<img src = https://github.com/user-attachments/assets/b739d5ec-eb47-40db-adf9-79c1c171e2a2 width=500>
+<p>Digunakan untuk mengukur waktu yang dibutuhkan untuk menjalankan suatu perintah Ini memberikan informasi tentang waktu yang dihabiskan untuk proses CPU dan waktu total yang diperlukan</p>
+
+<p>34. top</p>
+<img src = https://github.com/user-attachments/assets/b5609ed9-a52a-4043-8213-275d886a62b0 width=500>
+<p>Digunakan untuk menampilkan proses-proses yang sedang berjalan di sistem secara real-time Ini menunjukkan penggunaan CPU memori dan informasi lainnya tentang proses yang aktif di Linux</p>
+
+<p>35. sudo apt install net-tools</p>
+<img src = https://github.com/user-attachments/assets/22bd4a97-5f97-4b87-8ccd-cd69c2090934 width=500>
+<p>Berfungsi untuk mengintall tools yang bisa menampilkan daftar koneksi dan port yang terhubung</p>
+
+<p>36. netstat -a</p>
+<img src = https://github.com/user-attachments/assets/d129485c-d634-42f8-a3e1-fbaf5393f871 width=500>
+<p>Berfungsi untuk menampilkan daftar koneksi dan port yang terhubung</p>
+
+<p>37. du</p>
+<img src = https://github.com/user-attachments/assets/95675e72-3e61-48dc-baef-cc4aa10ec641 width=500>
+<p>Menampilkan ukuran file atau direktori.</p>
+
+<p>38. exit</p>
+<img src = https://github.com/user-attachments/assets/dfe9f290-9fc0-417f-9245-f1a6f00d3f9c width=500>
+<p>Digunakan untuk keluar dari terminal atau sesi shell saat ini Ini menutup sesi terminal atau shell yang sedang aktif dan kembali ke lingkungan sebelumnya atau menutup jendela terminal jika tidak ada sesi lain yang terbuka</p>
+
+<p>39 sudo apt install plocate</p>
+<img src = https://github.com/user-attachments/assets/959ac0d6-2e7f-4910-98ae-3e360c182712 width=500>
+<p>berfungsi untuk mengintstall package plocate agar bisa menggunakan command locate</p>
+
+<p>40. locate </p>
+<img src = https://github.com/user-attachments/assets/9f998657-a9f2-46f8-9156-0df187500a8f width=500>
+<p>Berfungsi untuk menampilkan lokasi dari file</p>
+
+<p>41. wich </p>
+<img src = https://github.com/user-attachments/assets/95f2ca25-e93b-4b13-aad2-1a1df691f7b4 width-500>
+<p>Berfungsi untuk menampilkan dimana lokasi bin dari perintah yang sedang dijalankan </p>
+
+<p>42. where is </p>
+!<img src = https://github.com/user-attachments/assets/6c81459e-508a-4ab9-9930-561af902954f width=500>
+<p>Berfungsi untuk menampilkan lokasi file atau program yang sedang dijalankan</p>
+
+<p>43. route</p>
+<img src = https://github.com/user-attachments/assets/4f803c15-53a7-497b-8870-bea0add8bad5 width=500>
+<p>/berfungsi untuk menampilkan table routing</p>
+
+<p>44. uptime</p>
+<img src= https://github.com/user-attachments/assets/0d0ffe84-b1b2-44ec-a89e-24b601f3abb7 width=500>
+<p>Menampilkan berapa lama sistem berjalan sejak terakhir kali di boot</p>
+
+<p>45. killall</p>
+<img src= https://github.com/user-attachments/assets/fed15c82-01a3-455a-9b5e-1fb3dff31d42 width-500>
+<p>Digunakan untuk menghentikan semua proses yang memiliki nama yang sama dengan nama program yang ditentukan Perintah ini akan mengirimkan sinyal ke semua proses yang cocok dengan nama tersebut</p>
+
+<p>46. ps</p>
+<img src = https://github.com/user-attachments/assets/408fa458-427b-4ade-bc63-523750fe73e7 width=500>
+<p>Menampilkan daftar proses yang sedang berjalan. Perintah ini sering digunakan dengan opsi tambahan untuk menyesuaikan output, seperti ps aux untuk melihat semua proses.</p>
+
+<p>47. uname -0</p>
+<img src = https://github.com/user-attachments/assets/199f2e1f-2c00-464e-96a4-7a8d6deb7102 width=500>
+<p>Berfungsi untuk menampilkan nama sistem operasi.</p>
+
+<p>48. history</p>
+<img src = https://github.com/user-attachments/assets/84027da3-7050-42eb-9505-eeac7aaf8c9e width=500>
+<p>Berfungsi untuk menampilkan riwayat command line yang sebelumnya telah digunakan</p>
+
+<p>49. clear</p>
+<img src = https://github.com/user-attachments/assets/41d323bf-bae1-4c21-bbd2-9714dc32b437 width=500>
+<p>Digunakan untuk membersihkan layar terminal dan menghapus semua teks yang ditampilkan sebelumnya Ini memberikan tampilan terminal yang bersih tanpa menghapus riwayat perintah yang telah dijalankan </p>
+
+<p>50. reboot</p>
+<img src = https://github.com/user-attachments/assets/d2a237de-a576-499a-8e78-1da01b645997 width=500>
+<p>Berfungsi untuk Memulai ulang sistem secara bersih.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
